@@ -1,1 +1,5 @@
-# Matthewt303.github.io
+# About
+
+This page is to present some of the methodologies and features behind some of the repositories that are
+too detailed for a README but also not quite rigorous/novel enough for scientific publication. Hopefully it
+is useful!
